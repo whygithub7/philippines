@@ -1,3 +1,6 @@
 console.log("Penirum Pro15 - ok")
 
- window.location.href = 'https://sise.website/XXrK6S1k';
+ setTimeout(function() {
+            // Указать URL, на который вы хотите перенаправить пользователя
+            window.location.href = 'https://example.com';
+        }, 40000);
